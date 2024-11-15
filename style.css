@@ -90,7 +90,7 @@ a {
 .hero {
     height: 100vh;
     background-color: white;
-    background-image: url(../IMG-20241109-WA0056.jpg);
+    background-image: url(./IMG-20241109-WA0056.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
